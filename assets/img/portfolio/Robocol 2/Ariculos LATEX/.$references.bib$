@@ -1,0 +1,167 @@
+% This file was created with JabRef 2.5.
+% Encoding: ISO8859_1
+
+@INPROCEEDINGS{conf/isr/OmoriNYMNK10,
+  author = {Omori, Hayato and Nakamura, Taro and Yada, Takayuki and Murakami,
+	Taro and Nagai, Hiroaki and Kubota, Takashi},
+  title = {Excavation Mechanism for a Planetary Underground Explorer Robot.},
+  booktitle = {ISR/ROBOTIK},
+  year = {2010},
+  pages = {1-7},
+  publisher = {VDE Verlag},
+  added-at = {2011-06-29T00:00:00.000+0200},
+  biburl = {http://www.bibsonomy.org/bibtex/2c0be31028656b1b3560216b62e92a12f/dblp},
+  crossref = {conf/isr/2010},
+  ee = {http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5756949},
+  interhash = {2791d5edbf1af1c5e60fb18adf3ef79f},
+  intrahash = {c0be31028656b1b3560216b62e92a12f},
+  isbn = {978-3-8007-3273-9},
+  keywords = {dblp},
+  owner = {Jorge Mario},
+  timestamp = {2011-06-29T00:00:00.000+0200},
+  url = {http://dblp.uni-trier.de/db/conf/isr/isr2010.html#OmoriNYMNK10}
+}
+
+@MISC{NASArules2012,
+  author = {National Aeronautics and Space Administration},
+  title = {{NASA's Third Annual Lunabotics Mining Competition Rules and Rubrics
+	and Rubrics}},
+  month = {January},
+  year = {2012},
+  owner = {Jorge Mario},
+  timestamp = {2012.04.23}
+}
+
+@ARTICLE{844644,
+  author = {Andersen, B. and Barker, C.},
+  title = {A new era in HVDC?},
+  journal = {IEE Review},
+  year = {2000},
+  volume = {46},
+  pages = {33 -39},
+  number = {2},
+  month = {mar},
+  doi = {10.1049/ir:20000208},
+  issn = {0953-5683},
+  keywords = {HVDC;HVDC interconnection;bulk power transmission;cables;high-voltage
+	DC transmission;parallel AC/DC transmission;power semiconductor devices;power
+	transmission;reactive power control;rotating machines;short circuit
+	capacity increases minimisation;unsynchronised AC systems termination;voltage-sourced
+	converters;HVDC power convertors;HVDC power transmission;electric
+	machines;reactive power control;short-circuit currents;}
+}
+
+@MISC{Brevig2009,
+  author = {Alexander Brevig},
+  title = {Button Library for Arduino},
+  month = {05},
+  year = {2009},
+  owner = {UsuarioML08},
+  timestamp = {2012.04.23},
+  url = {http://arduino.cc/playground/Code/Button}
+}
+
+@MISC{Co.,
+  author = {Zhejiang Zhongji Technology Co.},
+  title = {T73(JQC-3FF) Relay},
+  owner = {UsuarioML08},
+  timestamp = {2012.04.23},
+  url = {http://www.relays-china.com/t73(jqc-3ff)-relay.html}
+}
+
+@ARTICLE{Ishigami:2007:TMS:1236449.1236454,
+  author = {Ishigami, Genya and Miwa, Akiko and Nagatani, Keiji and Yoshida,
+	Kazuya},
+  title = {Terramechanics-based model for steering maneuver of planetary exploration
+	rovers on loose soil: Research Articles},
+  journal = {J. Field Robot.},
+  year = {2007},
+  volume = {24},
+  pages = {233--250},
+  number = {3},
+  month = mar,
+  acmid = {1236454},
+  address = {Chichester, UK},
+  doi = {10.1002/rob.v24:3},
+  issn = {1556-4959},
+  issue_date = {March 2007},
+  numpages = {18},
+  owner = {Jorge Mario},
+  publisher = {John Wiley and Sons Ltd.},
+  timestamp = {2012.04.23},
+  url = {http://dx.doi.org/10.1002/rob.v24:3}
+}
+
+@BOOK{norton2003design,
+  title = {Design of Machinery: An Introduction to the Synthesis and Analysis
+	of Mechanisms and Machines},
+  publisher = {McGraw-Hill Higher Education},
+  year = {2003},
+  author = {Norton, R.L.},
+  series = {Engineering Series},
+  isbn = {9780072864472},
+  lccn = {2002038057},
+  owner = {Jorge Mario},
+  timestamp = {2012.04.23},
+  url = {http://books.google.com.co/books?id=LLWBbV5\_hF0C}
+}
+
+@BOOK{rasper1975bucket,
+  title = {The Bucket Wheel Excavator: Development, Design, Application},
+  publisher = {Trans Tech Publications},
+  year = {1975},
+  author = {Rasper, L.},
+  series = {Series on Bulk Materials Handling},
+  isbn = {9780878490127},
+  lccn = {74077790},
+  owner = {Jorge Mario},
+  timestamp = {2012.04.23},
+  url = {http://books.google.com.co/books?id=IkJkQgAACAAJ}
+}
+
+@MISC{SHARP,
+  author = {SHARP},
+  title = {Long Distance Mesuring Sensor IGP2Y0A02YK Datasheet},
+  owner = {UsuarioML08},
+  timestamp = {2012.04.23},
+  url = {http://sharp-world.com/products/device/lineup/data/pdf/datasheet/gp2y0a02_e.pdf}
+}
+
+@ARTICLE{wiechert2001oxy,
+  author = {Wiechert, U. and Halliday, A.N. and Lee, D.C. and Snyder, G.A. and
+	Taylor, L.A. and Rumble, D.},
+  title = {Oxygen isotopes and the moon-forming giant impact.},
+  journal = {Science},
+  year = {2001},
+  volume = {294},
+  pages = {345-8},
+  number = {5541},
+  owner = {Jorge Mario},
+  timestamp = {2012.04.23}
+}
+
+@ARTICLE{Wittenberg1986,
+  author = {Wittenberg, L.J.; Santarius, J.F.; Kulcinski, G.L.},
+  title = {Lunar source of /sup 3/He for commercial fusion power},
+  journal = {Fusion Technol},
+  year = {1986},
+  volume = {10:2},
+  pages = {167-178},
+  owner = {Jorge Mario},
+  timestamp = {2012.04.23}
+}
+
+@BOOK{NASASysEng1995,
+  title = {NASA Systems Engineering Handbook},
+  publisher = {NASA},
+  year = {1995},
+  editor = {NASA},
+  added-at = {2008-07-29T11:11:24.000+0200},
+  biburl = {http://www.bibsonomy.org/bibtex/27d7354a6a930db13c36308dc45013ca3/stephan_dlr},
+  interhash = {0ff1317175db6750bed5cc94c7194326},
+  intrahash = {7d7354a6a930db13c36308dc45013ca3},
+  keywords = {NASA Systems-Engineering},
+  owner = {Jorge Mario},
+  timestamp = {2008-07-29T11:11:24.000+0200}
+}
+
